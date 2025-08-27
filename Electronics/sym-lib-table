@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "OpenThereminV4-rescue")(type "Legacy")(uri "${KIPRJMOD}/OpenThereminV45-rescue.lib")(options "")(descr ""))
   (lib (name "OpenThereminV41-rescue")(type "Legacy")(uri "${KIPRJMOD}/OpenThereminV45-rescue.lib")(options "")(descr ""))
+  (lib (name "Theremin")(type "KiCad")(uri "${KIPRJMOD}/Theremin.kicad_sym")(options "")(descr ""))
 )
