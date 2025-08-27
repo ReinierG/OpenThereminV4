@@ -11,6 +11,17 @@ For more info on the open source project and on availability of ready made shiel
 
 http://www.gaudi.ch/OpenTheremin/
 
+Modifications to the original project
+-  4-layer pcb for improved emc performance (slightly more expensive)
+-  1 layer for ground, 1 layer for power (5V and a few 3.3V traces)
+-  improved audio noise performance
+-  added ESD protection (antennas, USB, audio connector, touch button)
+-  added quite a few decoupling and bulk capacitors
+-  solved a lot of design rule errors
+-  removed some BOM errors and wrong footprints (3.5 mm audio connector)
+-  100% software compatible
+-  migrated to KiCAD 9.0.4
+
 ### Installation
 1. Open up the Arduino IDE
 2. Open the File "Open_Theremin_V4.ino"
