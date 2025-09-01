@@ -1,0 +1,150 @@
+(footprint "PS15NV60"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "P3"
+		(at 5.63 -6.85 270)
+		(layer "F.SilkS")
+		(uuid "62da22b6-6a2a-403a-90b6-9ee11c3d0de4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PS15NV60-103A3030"
+		(at 0.2 10.1 0)
+		(layer "F.Fab")
+		(uuid "8f853b5a-2d37-4d68-ba3c-c4d9f364fb4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "209a085b-a93e-4855-b847-46f72973bb81")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "134db467-9cad-4f2f-8d38-009fb3112394")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_line
+		(start -7.2 7.5)
+		(end -7.2 2.1)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c48c118e-37ef-485a-84bf-650d463d718e")
+	)
+	(fp_line
+		(start -7.2 7.5)
+		(end 7.2 7.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "043e94b9-da44-4f33-8a9b-c18caa49862c")
+	)
+	(fp_line
+		(start 7.2 7.5)
+		(end 7.2 2.1)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5cf2dda-69cd-46ba-b89d-729706daf006")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 7.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "bccfecb4-949e-4a9d-ad07-ffdd89569be1")
+	)
+	(pad "" thru_hole oval
+		(at -6.85 0)
+		(size 1.5 2.2)
+		(drill oval 0.6 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7f13c930-ac5e-4661-9ad0-e0209419be0e")
+	)
+	(pad "" thru_hole circle
+		(at 0 0)
+		(size 8 8)
+		(drill 6.4)
+		(property pad_prop_mechanical)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4b5b7a0d-cdfa-4b35-8d9d-05ac2424dda3")
+	)
+	(pad "" thru_hole oval
+		(at 6.85 0)
+		(size 1.5 2.2)
+		(drill oval 0.6 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ee692a4c-f50f-45a1-a548-70ae77462344")
+	)
+	(pad "1" smd rect
+		(at 4.5 7.15)
+		(size 3 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "705d5317-0843-4e29-8e29-28ade30a204d")
+	)
+	(pad "2" smd rect
+		(at 0 -6.65)
+		(size 3 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ab94cfcb-7b13-4c54-bc93-052cc6f1d816")
+	)
+	(pad "3" smd rect
+		(at -4.5 7.15)
+		(size 3 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "076cdb44-f0fe-4f95-afef-325b8a4d5af4")
+	)
+	(embedded_fonts no)
+	(model "PS15NV60-103A3030-PM.stp"
+		(offset
+			(xyz 0 0 3.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

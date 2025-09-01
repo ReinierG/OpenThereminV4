@@ -884,6 +884,97 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "GND-OpenThereminV4-rescue_10"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND-OpenThereminV4-rescue"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND-OpenThereminV4-rescue_10_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND-OpenThereminV4-rescue_10_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "GND-OpenThereminV4-rescue_2"
 			(power)
 			(pin_numbers
@@ -1408,6 +1499,188 @@
 				)
 			)
 			(symbol "GND-OpenThereminV4-rescue_7_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "GND-OpenThereminV4-rescue_8"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND-OpenThereminV4-rescue"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND-OpenThereminV4-rescue_8_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND-OpenThereminV4-rescue_8_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "GND-OpenThereminV4-rescue_9"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND-OpenThereminV4-rescue"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND-OpenThereminV4-rescue_9_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND-OpenThereminV4-rescue_9_1_1"
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
@@ -3172,6 +3445,243 @@
 						)
 					)
 					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Mechanical:Fiducial"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fiducial"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fiducial Marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fiducial marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Fiducial*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fiducial_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountPad3-OpenThereminV4-rescue_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "X"
+				(at -1.27 5.08 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "MountPad3-OpenThereminV4-rescue"
+				(at -1.27 8.89 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountPad3-OpenThereminV4-rescue_1_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6754,8 +7264,12 @@
 			(embedded_fonts no)
 		)
 		(symbol "OpenThereminV41-rescue:MountPad3-OpenThereminV4-rescue"
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 1.016)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -8479,10 +8993,112 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "VCC-OpenThereminV4-rescue_3"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC-OpenThereminV4-rescue"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC-OpenThereminV4-rescue_3_0_1"
+				(circle
+					(center 0 1.905)
+					(radius 0.635)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC-OpenThereminV4-rescue_3_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(hide yes)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "REGISTER"
 		(exclude_from_sim no)
-		(at 168.91 266.7 0)
+		(at 188.214 257.048 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -8491,9 +9107,20 @@
 		)
 		(uuid "1d198baa-bed9-48e7-b906-b54209de7038")
 	)
+	(text "If you want to use the CV1 and CV2 signals, place the DAC and the connector"
+		(exclude_from_sim no)
+		(at 206.248 117.094 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "3de4861b-2791-4a64-8728-c3fc4a983fd1")
+	)
 	(text "VOLUME"
 		(exclude_from_sim no)
-		(at 140.97 266.7 0)
+		(at 145.034 257.048 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -8504,7 +9131,7 @@
 	)
 	(text "TIMBRE"
 		(exclude_from_sim no)
-		(at 156.21 266.7 0)
+		(at 167.132 257.048 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -8515,7 +9142,7 @@
 	)
 	(text "PITCH"
 		(exclude_from_sim no)
-		(at 127 266.7 0)
+		(at 121.666 257.048 0)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -8523,17 +9150,6 @@
 			(justify left bottom)
 		)
 		(uuid "8b04a571-6bbc-4b94-84f2-62a56d59c4b8")
-	)
-	(text "PS15NV60-103A3030"
-		(exclude_from_sim no)
-		(at 136.652 272.034 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "cb58759b-2d9e-4d56-8f15-6cfd1f4d31c5")
 	)
 	(text "Mount Pads: SMTSOB-M3-2ET \n"
 		(exclude_from_sim no)
@@ -8546,11 +9162,28 @@
 		)
 		(uuid "f839896c-0b67-4ff6-8436-77912930ed39")
 	)
+	(text "place only one resistor:\nR25 for use of headphones (L+R)\nR26 for use of gate signal"
+		(exclude_from_sim no)
+		(at 262.636 65.278 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "ffc65bad-64fe-4e2b-b840-986dc0160877")
+	)
 	(junction
-		(at 26.67 133.35)
+		(at 200.66 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "038e76c9-46dd-43fa-b129-d2458d2dfa36")
+		(uuid "094361c3-bd7e-483d-9dcc-3e6a3ffd6a6d")
+	)
+	(junction
+		(at 156.21 262.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0beb88bf-8d17-487e-ab0e-623fae87c61a")
 	)
 	(junction
 		(at 39.37 57.15)
@@ -8571,13 +9204,19 @@
 		(uuid "1878c5db-0b8b-4dfb-bb5a-9a5bcaad7ed0")
 	)
 	(junction
+		(at 156.21 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f065809-4cb2-4021-a677-c905d4bf9246")
+	)
+	(junction
 		(at 26.67 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20805890-b6f2-462a-89bb-1985e7e84966")
 	)
 	(junction
-		(at 124.46 267.97)
+		(at 124.46 273.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a16358f-082e-4cde-a4f4-7491e1f2636f")
@@ -8619,7 +9258,7 @@
 		(uuid "37a9ab1b-fddc-4b95-9e95-3cda6afd5b1f")
 	)
 	(junction
-		(at 152.4 257.81)
+		(at 171.45 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "407edecf-9440-4d04-bbbc-e57d3609e0ac")
@@ -8649,12 +9288,6 @@
 		(uuid "4b4f79d9-4405-42c7-a37c-3a5dcc55602c")
 	)
 	(junction
-		(at 26.67 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c3791c8-5265-4772-bd54-43a1a8bf254c")
-	)
-	(junction
 		(at 77.47 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8679,6 +9312,12 @@
 		(uuid "5639eba7-1f7b-4783-b78f-270c775a1163")
 	)
 	(junction
+		(at 275.59 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58eb18fa-eb14-4015-b8e2-438d66f7cc1a")
+	)
+	(junction
 		(at 190.5 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8691,7 +9330,7 @@
 		(uuid "5e2b94ec-291f-404f-b44c-2894e21b64fe")
 	)
 	(junction
-		(at 152.4 267.97)
+		(at 171.45 273.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f6caf84-325d-48e8-a2c5-91410e7e2b4a")
@@ -8781,13 +9420,19 @@
 		(uuid "7d386df0-185d-4cb8-8b86-a46337e5ce9a")
 	)
 	(junction
+		(at 194.31 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e7116c7-edd1-428b-aa8d-fe4eeafc4c24")
+	)
+	(junction
 		(at 64.77 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f22edbe-8ac9-4546-8837-8925f0c97a07")
 	)
 	(junction
-		(at 138.43 257.81)
+		(at 149.86 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7fa11af5-b0e6-42af-ba57-9add77be6ddf")
@@ -8797,6 +9442,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8116cb00-46e9-4ae5-b13f-bc1865f9766b")
+	)
+	(junction
+		(at 177.8 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "82513139-3225-43bb-b656-f9ce4229e535")
+	)
+	(junction
+		(at 130.81 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8339a8d6-27b3-49e2-9520-a305f0adeb56")
 	)
 	(junction
 		(at 118.11 184.15)
@@ -8913,7 +9570,7 @@
 		(uuid "acd79f24-771f-4122-bc96-877d38cd0914")
 	)
 	(junction
-		(at 138.43 267.97)
+		(at 149.86 273.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae6126df-f2dc-4f83-b771-1b354521c3c6")
@@ -8955,12 +9612,6 @@
 		(uuid "bd31dce1-413d-435d-917c-b587767b74eb")
 	)
 	(junction
-		(at 275.59 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c42d1165-9582-4b31-92a0-411d08360711")
-	)
-	(junction
 		(at 135.89 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8995,6 +9646,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1a75d9a-3b60-4e2d-9e88-7588963bd245")
+	)
+	(junction
+		(at 292.1 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3c6fd2b-22fe-46ce-b7be-b4357f2652a6")
+	)
+	(junction
+		(at 276.86 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6bedbb4-05c2-4f73-8c2d-83db26596884")
 	)
 	(junction
 		(at 39.37 144.78)
@@ -9081,10 +9744,22 @@
 		(uuid "f34ac082-cb02-4291-b6f2-ccc6b445c269")
 	)
 	(junction
+		(at 130.81 262.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4e43b43-b03c-417e-9ded-f009a88f9956")
+	)
+	(junction
 		(at 72.39 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f63eabe8-afb2-4d5c-b397-5028f9dbcb73")
+	)
+	(junction
+		(at 177.8 262.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f734a8be-da58-46f8-8c57-9adbc93a9eac")
 	)
 	(junction
 		(at 360.68 176.53)
@@ -9107,10 +9782,6 @@
 	(no_connect
 		(at 247.65 201.93)
 		(uuid "0c1b1c89-5ccc-4277-bce8-59e8279c6e44")
-	)
-	(no_connect
-		(at 154.94 193.04)
-		(uuid "1088d90b-a191-4048-b087-195d57b8b29c")
 	)
 	(no_connect
 		(at 146.05 118.11)
@@ -9217,10 +9888,6 @@
 		(uuid "abdf8f8b-d5dd-4ed6-b627-2296c0fa92f5")
 	)
 	(no_connect
-		(at 149.86 193.04)
-		(uuid "af47302b-f04c-4e03-846e-35b2c4717890")
-	)
-	(no_connect
 		(at 120.65 33.02)
 		(uuid "b1325ce3-efef-4944-96b1-6d960eed0d89")
 	)
@@ -9306,6 +9973,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 262.89) (xy 182.88 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01f98ac0-ab80-4844-9800-7c565ec2a24b")
+	)
+	(wire
+		(pts
 			(xy 85.09 182.88) (xy 85.09 184.15)
 		)
 		(stroke
@@ -9333,16 +10010,6 @@
 			(type default)
 		)
 		(uuid "028d54a4-246f-478e-9125-6df508064a8f")
-	)
-	(wire
-		(pts
-			(xy 124.46 266.7) (xy 124.46 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "060492a7-11b0-4ffa-80ed-bb4a299af5b6")
 	)
 	(wire
 		(pts
@@ -9516,6 +10183,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 262.89) (xy 156.21 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b503a17-41b7-4838-a08c-b8f8b3cba967")
+	)
+	(wire
+		(pts
 			(xy 181.61 19.05) (xy 181.61 21.59)
 		)
 		(stroke
@@ -9546,13 +10223,13 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 262.89) (xy 157.48 262.89)
+			(xy 275.59 95.25) (xy 275.59 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0fe86ec3-6fe3-4e34-b332-d4394b8f9b61")
+		(uuid "0f005062-2c21-4733-89b5-193815956e52")
 	)
 	(wire
 		(pts
@@ -9636,6 +10313,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 57.15) (xy 292.1 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15347002-4ec6-44db-90ab-d39457cfda04")
+	)
+	(wire
+		(pts
 			(xy 323.85 171.45) (xy 323.85 168.91)
 		)
 		(stroke
@@ -9653,6 +10340,16 @@
 			(type default)
 		)
 		(uuid "171091e6-154a-4a7a-b1aa-a8ca13179490")
+	)
+	(wire
+		(pts
+			(xy 118.11 257.81) (xy 124.46 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "182cd9a9-4bfa-4380-8833-e39c6535b0ca")
 	)
 	(wire
 		(pts
@@ -9766,16 +10463,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 257.81) (xy 166.37 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c3a040e-be3c-456b-84e0-0b2ea7bd3345")
-	)
-	(wire
-		(pts
 			(xy 97.79 52.07) (xy 97.79 54.61)
 		)
 		(stroke
@@ -9846,16 +10533,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 257.81) (xy 138.43 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21301389-477c-4f8b-89a1-886187440259")
-	)
-	(wire
-		(pts
 			(xy 97.79 149.86) (xy 97.79 152.4)
 		)
 		(stroke
@@ -9866,7 +10543,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 46.99) (xy 288.29 46.99)
+			(xy 275.59 46.99) (xy 276.86 46.99)
 		)
 		(stroke
 			(width 0)
@@ -9916,16 +10593,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 266.7) (xy 152.4 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2453acb3-8003-406c-96cc-0aecb2d998f0")
-	)
-	(wire
-		(pts
 			(xy 97.79 115.57) (xy 120.65 115.57)
 		)
 		(stroke
@@ -9946,7 +10613,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 262.89) (xy 143.51 262.89)
+			(xy 153.67 262.89) (xy 156.21 262.89)
 		)
 		(stroke
 			(width 0)
@@ -10026,7 +10693,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 88.9) (xy 262.89 101.6)
+			(xy 262.89 88.9) (xy 262.89 104.14)
 		)
 		(stroke
 			(width 0)
@@ -10056,7 +10723,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 257.81) (xy 152.4 259.08)
+			(xy 171.45 257.81) (xy 171.45 259.08)
 		)
 		(stroke
 			(width 0)
@@ -10096,7 +10763,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 257.81) (xy 166.37 259.08)
+			(xy 194.31 257.81) (xy 194.31 259.08)
 		)
 		(stroke
 			(width 0)
@@ -10183,6 +10850,16 @@
 			(type default)
 		)
 		(uuid "329fdb53-7437-420a-b253-7346ba545bb4")
+	)
+	(wire
+		(pts
+			(xy 177.8 262.89) (xy 177.8 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32be83e3-14b6-4829-8ca4-d9910c177f29")
 	)
 	(wire
 		(pts
@@ -10336,6 +11013,26 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 262.89) (xy 207.01 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b01b9e7-1174-475d-9dd5-fd7d4edc2105")
+	)
+	(wire
+		(pts
+			(xy 171.45 273.05) (xy 177.8 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b20170e-579a-48b8-8599-e8e0848b8e3c")
+	)
+	(wire
+		(pts
 			(xy 224.79 140.97) (xy 227.33 140.97)
 		)
 		(stroke
@@ -10343,6 +11040,16 @@
 			(type default)
 		)
 		(uuid "3b96b3ab-c72c-443d-8e87-954a9065cc1e")
+	)
+	(wire
+		(pts
+			(xy 130.81 273.05) (xy 149.86 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c1e96bc-de46-4dfe-bf09-33f2cab5a962")
 	)
 	(wire
 		(pts
@@ -10376,7 +11083,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 267.97) (xy 152.4 267.97)
+			(xy 149.86 273.05) (xy 156.21 273.05)
 		)
 		(stroke
 			(width 0)
@@ -10416,7 +11123,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 101.6) (xy 262.89 101.6)
+			(xy 275.59 104.14) (xy 262.89 104.14)
 		)
 		(stroke
 			(width 0)
@@ -10476,6 +11183,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 273.05) (xy 124.46 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4248f4a6-a07e-478d-a335-1c5905a610ad")
+	)
+	(wire
+		(pts
 			(xy 320.04 168.91) (xy 323.85 168.91)
 		)
 		(stroke
@@ -10483,6 +11200,16 @@
 			(type default)
 		)
 		(uuid "4312a9ae-19bf-4d73-9327-79de433fe1fa")
+	)
+	(wire
+		(pts
+			(xy 156.21 273.05) (xy 171.45 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "433a6c8e-4dfd-4b33-a0b9-bb16f3c7e1ab")
 	)
 	(wire
 		(pts
@@ -10603,16 +11330,6 @@
 			(type default)
 		)
 		(uuid "4b6183f2-8ea9-4fb6-bff5-ebab23a34afe")
-	)
-	(wire
-		(pts
-			(xy 156.21 173.99) (xy 152.4 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b8270e3-f67b-4c94-9050-d0bbaac4b240")
 	)
 	(wire
 		(pts
@@ -10836,6 +11553,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 257.81) (xy 171.45 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "561be2df-cd41-4992-9557-defe563c3804")
+	)
+	(wire
+		(pts
 			(xy 318.77 55.88) (xy 306.07 55.88)
 		)
 		(stroke
@@ -10853,6 +11580,16 @@
 			(type default)
 		)
 		(uuid "5741049e-0f15-4109-8d49-4ece268737d3")
+	)
+	(wire
+		(pts
+			(xy 130.81 262.89) (xy 130.81 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a947a59-41f0-4ea0-94cd-ff495996130b")
 	)
 	(wire
 		(pts
@@ -10906,7 +11643,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 110.49) (xy 246.38 106.68)
+			(xy 246.38 109.22) (xy 246.38 106.68)
 		)
 		(stroke
 			(width 0)
@@ -10976,7 +11713,17 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 267.97) (xy 166.37 266.7)
+			(xy 289.56 57.15) (xy 292.1 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60757d3b-1358-43e9-ae01-8a335816594f")
+	)
+	(wire
+		(pts
+			(xy 194.31 266.7) (xy 194.31 273.05)
 		)
 		(stroke
 			(width 0)
@@ -11046,6 +11793,26 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 57.15) (xy 276.86 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64776cde-ae42-4307-8805-b0bd1022dc2d")
+	)
+	(wire
+		(pts
+			(xy 149.86 266.7) (xy 149.86 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6521aeea-2014-497d-862c-51f3c2a411c8")
+	)
+	(wire
+		(pts
 			(xy 262.89 88.9) (xy 259.08 88.9)
 		)
 		(stroke
@@ -11063,6 +11830,16 @@
 			(type default)
 		)
 		(uuid "65e66c25-d470-4efe-ad6a-c2f82f9dfeeb")
+	)
+	(wire
+		(pts
+			(xy 171.45 266.7) (xy 171.45 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6647463b-5be2-4964-a57c-366b4f05f71c")
 	)
 	(wire
 		(pts
@@ -11116,23 +11893,13 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 257.81) (xy 138.43 259.08)
+			(xy 149.86 257.81) (xy 149.86 259.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "69abf663-cb5d-4713-a8fc-c1388704fcc5")
-	)
-	(wire
-		(pts
-			(xy 275.59 95.25) (xy 275.59 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a731f9d-eb28-4aa7-9cec-f1ffcd9827a7")
 	)
 	(wire
 		(pts
@@ -11396,23 +12163,13 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 109.22) (xy 275.59 109.22)
+			(xy 287.02 104.14) (xy 275.59 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7a010c43-9631-4bf0-accb-728be7f0619b")
-	)
-	(wire
-		(pts
-			(xy 152.4 267.97) (xy 166.37 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a405039-f68f-4a53-bd5f-84db75adeb4a")
 	)
 	(wire
 		(pts
@@ -11506,6 +12263,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 46.99) (xy 288.29 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80c043ad-6274-44bd-92a6-cadbee5de124")
+	)
+	(wire
+		(pts
 			(xy 133.35 151.13) (xy 133.35 152.4)
 		)
 		(stroke
@@ -11576,6 +12343,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 262.89) (xy 177.8 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "848f6824-5211-4ca3-a0c8-c93c307f2d25")
+	)
+	(wire
+		(pts
 			(xy 43.18 241.3) (xy 52.07 241.3)
 		)
 		(stroke
@@ -11633,6 +12410,16 @@
 			(type default)
 		)
 		(uuid "87f07c5e-aa87-4e0b-a4eb-80977dc8b357")
+	)
+	(wire
+		(pts
+			(xy 177.8 273.05) (xy 194.31 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "887b08b9-c1f6-4554-9012-1f33f87e7e7d")
 	)
 	(wire
 		(pts
@@ -11786,6 +12573,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 262.89) (xy 135.89 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e56bcea-a683-4d6b-951b-41d8d149b481")
+	)
+	(wire
+		(pts
 			(xy 377.19 99.06) (xy 375.92 99.06)
 		)
 		(stroke
@@ -11916,16 +12713,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 255.27) (xy 124.46 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95dee1d9-6fde-4ebb-9cce-7d116fea142f")
-	)
-	(wire
-		(pts
 			(xy 125.73 184.15) (xy 125.73 182.88)
 		)
 		(stroke
@@ -11933,6 +12720,16 @@
 			(type default)
 		)
 		(uuid "960f74ed-b5d6-4e41-a4f5-20f67fa5fa2d")
+	)
+	(wire
+		(pts
+			(xy 171.45 257.81) (xy 194.31 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "964ed1dd-ab07-4839-a08a-fd6acd97191c")
 	)
 	(wire
 		(pts
@@ -11976,7 +12773,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 106.68) (xy 241.3 118.11)
+			(xy 241.3 106.68) (xy 241.3 107.95)
 		)
 		(stroke
 			(width 0)
@@ -11996,7 +12793,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 110.49) (xy 246.38 110.49)
+			(xy 247.65 109.22) (xy 246.38 109.22)
 		)
 		(stroke
 			(width 0)
@@ -12066,6 +12863,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 266.7) (xy 124.46 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d116593-b109-4cbd-b84d-bbd0cc3893a4")
+	)
+	(wire
+		(pts
 			(xy 85.09 184.15) (xy 92.71 184.15)
 		)
 		(stroke
@@ -12086,6 +12893,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 262.89) (xy 200.66 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f7bb5b4-e3d3-4846-b585-2c48c010cf83")
+	)
+	(wire
+		(pts
 			(xy 220.98 189.23) (xy 220.98 190.5)
 		)
 		(stroke
@@ -12093,6 +12910,16 @@
 			(type default)
 		)
 		(uuid "a02018f1-dfb1-4984-ab62-92876c4c0794")
+	)
+	(wire
+		(pts
+			(xy 124.46 257.81) (xy 149.86 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a150bcf9-928f-4d8f-9411-e2bc9219ea2f")
 	)
 	(wire
 		(pts
@@ -12416,7 +13243,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 267.97) (xy 124.46 269.24)
+			(xy 116.84 273.05) (xy 116.84 274.32)
 		)
 		(stroke
 			(width 0)
@@ -12596,7 +13423,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 262.89) (xy 129.54 262.89)
+			(xy 128.27 262.89) (xy 130.81 262.89)
 		)
 		(stroke
 			(width 0)
@@ -12613,16 +13440,6 @@
 			(type default)
 		)
 		(uuid "bdf26fe2-b621-41f3-9f5a-0d727f55a78a")
-	)
-	(wire
-		(pts
-			(xy 280.67 95.25) (xy 280.67 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be13dd94-d253-4342-b33b-b44b1132e7d9")
 	)
 	(wire
 		(pts
@@ -12826,16 +13643,6 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 109.22) (xy 275.59 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cab40a30-b4cd-46fb-bf54-98720589be09")
-	)
-	(wire
-		(pts
 			(xy 64.77 133.35) (xy 64.77 138.43)
 		)
 		(stroke
@@ -13036,23 +13843,13 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 129.54) (xy 26.67 107.95)
+			(xy 26.67 129.54) (xy 26.67 118.11)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d681d07d-ba34-48d3-94c7-8d74c9375ca7")
-	)
-	(wire
-		(pts
-			(xy 124.46 267.97) (xy 138.43 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6aa9e37-8224-4cb6-8a3c-29644196ac0e")
 	)
 	(wire
 		(pts
@@ -13073,16 +13870,6 @@
 			(type default)
 		)
 		(uuid "d731d989-a214-4f05-8918-4830c18fa2f4")
-	)
-	(wire
-		(pts
-			(xy 138.43 257.81) (xy 152.4 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7c147b8-bfbf-43fd-abd2-e14366094824")
 	)
 	(wire
 		(pts
@@ -13263,6 +14050,16 @@
 			(type default)
 		)
 		(uuid "df27634a-853d-4f5f-882b-c90753edc631")
+	)
+	(wire
+		(pts
+			(xy 194.31 273.05) (xy 200.66 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df30b4ba-f7a9-47f0-bd25-54d1fc7f7654")
 	)
 	(wire
 		(pts
@@ -13476,16 +14273,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 176.53) (xy 152.4 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea6ba58f-122b-4479-b4d5-862573938eb0")
-	)
-	(wire
-		(pts
 			(xy 220.98 180.34) (xy 220.98 181.61)
 		)
 		(stroke
@@ -13576,6 +14363,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 262.89) (xy 160.02 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef197767-4f98-436c-a9ef-7596f732ea6d")
+	)
+	(wire
+		(pts
 			(xy 69.85 175.26) (xy 69.85 172.72)
 		)
 		(stroke
@@ -13623,6 +14420,16 @@
 			(type default)
 		)
 		(uuid "f1018354-4076-4fa9-9451-b8cbc2bafa60")
+	)
+	(wire
+		(pts
+			(xy 276.86 46.99) (xy 276.86 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f14a1d1e-317b-4a68-9000-92d3373078ce")
 	)
 	(wire
 		(pts
@@ -13676,13 +14483,23 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 262.89) (xy 171.45 262.89)
+			(xy 198.12 262.89) (xy 200.66 262.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f4e5890d-3a60-4a85-99cf-ba61c6261ca2")
+	)
+	(wire
+		(pts
+			(xy 124.46 273.05) (xy 130.81 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ee141b-422b-4afe-8ab6-b00151a1c390")
 	)
 	(wire
 		(pts
@@ -13816,23 +14633,13 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 43.18) (xy 26.67 20.32)
+			(xy 26.67 43.18) (xy 26.67 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fb2fc427-9660-4db7-97dc-6d2fbb557a1b")
-	)
-	(wire
-		(pts
-			(xy 138.43 266.7) (xy 138.43 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb88c99a-f163-441a-adfe-21cbc0d3ef82")
 	)
 	(wire
 		(pts
@@ -14216,28 +15023,6 @@
 			)
 		)
 	)
-	(global_label "LED_BLUE"
-		(shape input)
-		(at 156.21 176.53 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "2ee2c866-caa3-48c7-a006-4cfc3ce5546d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.0377 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SAMPLE_CLK"
 		(shape input)
 		(at 152.4 40.64 0)
@@ -14438,7 +15223,7 @@
 	)
 	(global_label "GATE"
 		(shape input)
-		(at 289.56 50.8 180)
+		(at 274.32 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14448,7 +15233,7 @@
 		)
 		(uuid "3b67bf48-a099-4432-b2c7-ca65cef150b8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 281.3929 50.8 0)
+			(at 266.1529 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14498,28 +15283,6 @@
 					(size 1.524 1.524)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED_RED"
-		(shape input)
-		(at 156.21 173.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "40a43ef4-697d-46f2-9af1-1f7129b8a795")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.7314 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -14766,7 +15529,7 @@
 	)
 	(global_label "VREF"
 		(shape input)
-		(at 248.92 110.49 0)
+		(at 247.65 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14776,7 +15539,7 @@
 		)
 		(uuid "669c8d96-7dfe-4ec3-a785-a2aed35c9071")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.2323 110.49 0)
+			(at 255.9623 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14986,7 +15749,7 @@
 	)
 	(global_label "CV1"
 		(shape input)
-		(at 287.02 109.22 0)
+		(at 287.02 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14996,7 +15759,7 @@
 		)
 		(uuid "746df377-73b0-4632-8e93-63c1ae11b39a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 294.0906 109.3152 0)
+			(at 294.0906 104.2352 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15030,7 +15793,7 @@
 	)
 	(global_label "A2"
 		(shape input)
-		(at 157.48 262.89 0)
+		(at 182.88 262.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15040,7 +15803,7 @@
 		)
 		(uuid "77854c31-3a10-41ac-848f-25ad44460022")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0345 262.89 0)
+			(at 188.4345 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15118,7 +15881,7 @@
 	)
 	(global_label "A3"
 		(shape input)
-		(at 171.45 262.89 0)
+		(at 207.01 262.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15128,7 +15891,7 @@
 		)
 		(uuid "90f76cfe-a2dd-45ed-9601-5f70ee771b3b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.0045 262.89 0)
+			(at 212.5645 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15162,7 +15925,7 @@
 	)
 	(global_label "A0"
 		(shape input)
-		(at 129.54 262.89 0)
+		(at 135.89 262.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15172,7 +15935,7 @@
 		)
 		(uuid "9cc9897d-4528-4fef-8c36-83e86200088e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.0945 262.89 0)
+			(at 141.4445 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15668,7 +16431,7 @@
 	)
 	(global_label "A1"
 		(shape input)
-		(at 143.51 262.89 0)
+		(at 160.02 262.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15678,7 +16441,7 @@
 		)
 		(uuid "f813ff7c-0467-4b4f-b73d-3248366c59aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.0645 262.89 0)
+			(at 165.5745 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15765,7 +16528,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000570fb790")
 		(property "Reference" "P2"
-			(at 122.3518 264.0584 90)
+			(at 129.032 260.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15773,8 +16536,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
-			(at 122.3518 261.747 90)
+		(property "Value" "PS15NV60-103A3030"
+			(at 121.666 266.954 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15782,7 +16545,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GaudiLabsFootPrints:PS15NV60"
+		(property "Footprint" "theremin-footprints:PS15NV60"
 			(at 124.46 262.89 0)
 			(effects
 				(font
@@ -15827,7 +16590,7 @@
 	)
 	(symbol
 		(lib_id "OpenThereminV41-rescue:POT-OpenThereminV4-rescue")
-		(at 138.43 262.89 270)
+		(at 149.86 262.89 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15836,7 +16599,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000570fb8cd")
 		(property "Reference" "P1"
-			(at 139.7 256.54 90)
+			(at 154.686 260.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15844,17 +16607,18 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
-			(at 139.7 254 90)
+		(property "Value" "PS15NV60-103A3030"
+			(at 151.13 254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "GaudiLabsFootPrints:PS15NV60"
-			(at 138.43 262.89 0)
+		(property "Footprint" "theremin-footprints:PS15NV60"
+			(at 149.86 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15863,7 +16627,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 262.89 0)
+			(at 149.86 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15871,7 +16635,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 262.89 0)
+			(at 149.86 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15898,7 +16662,7 @@
 	)
 	(symbol
 		(lib_id "OpenThereminV41-rescue:POT-OpenThereminV4-rescue")
-		(at 166.37 262.89 270)
+		(at 194.31 262.89 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15907,7 +16671,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000570fb9c2")
 		(property "Reference" "P3"
-			(at 168.91 256.54 90)
+			(at 198.628 259.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15915,17 +16679,18 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
-			(at 168.91 254 90)
+		(property "Value" "PS15NV60-103A3030"
+			(at 203.962 254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "GaudiLabsFootPrints:PS15NV60"
-			(at 166.37 262.89 0)
+		(property "Footprint" "theremin-footprints:PS15NV60"
+			(at 194.31 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15934,7 +16699,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 262.89 0)
+			(at 194.31 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15942,7 +16707,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 262.89 0)
+			(at 194.31 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15969,7 +16734,7 @@
 	)
 	(symbol
 		(lib_id "OpenThereminV41-rescue:POT-OpenThereminV4-rescue")
-		(at 152.4 262.89 270)
+		(at 171.45 262.89 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15978,7 +16743,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000570fba22")
 		(property "Reference" "P4"
-			(at 153.67 256.54 90)
+			(at 175.768 259.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15986,17 +16751,18 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
-			(at 153.67 254 90)
+		(property "Value" "PS15NV60-103A3030"
+			(at 172.72 254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "GaudiLabsFootPrints:PS15NV60"
-			(at 152.4 262.89 0)
+		(property "Footprint" "theremin-footprints:PS15NV60"
+			(at 171.45 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16005,7 +16771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 262.89 0)
+			(at 171.45 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16013,7 +16779,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 262.89 0)
+			(at 171.45 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16236,7 +17002,7 @@
 				)
 			)
 		)
-		(property "Value" "HEF4069"
+		(property "Value" "HEF4069UBT"
 			(at 86.36 139.7 0)
 			(effects
 				(font
@@ -16337,7 +17103,7 @@
 				)
 			)
 		)
-		(property "Value" "HEF4069"
+		(property "Value" "HEF4069UBT"
 			(at 81.28 109.8804 0)
 			(effects
 				(font
@@ -16438,7 +17204,7 @@
 				)
 			)
 		)
-		(property "Value" "HEF4069"
+		(property "Value" "HEF4069UBT"
 			(at 48.26 121.92 0)
 			(effects
 				(font
@@ -16742,7 +17508,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PLUG_3_5_SMD SJ-3502-SMT-TR"
+		(property "Value" "SJ-3523-SMT-TR"
 			(at 285.75 22.86 0)
 			(effects
 				(font
@@ -16796,7 +17562,7 @@
 	)
 	(symbol
 		(lib_id "OpenThereminV41-rescue:MountPad3-OpenThereminV4-rescue")
-		(at 21.59 45.72 180)
+		(at 26.67 25.4 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -16804,7 +17570,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005712bca3")
 		(property "Reference" "Y1"
-			(at 19.812 44.958 0)
+			(at 28.702 27.178 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16812,15 +17578,16 @@
 			)
 		)
 		(property "Value" "MountPad3"
-			(at 20.828 47.244 0)
+			(at 27.178 32.258 90)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "GaudiLabsFootPrints:SMTSOB_M3"
-			(at 21.59 45.72 0)
+			(at 26.67 25.4 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16829,7 +17596,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 45.72 0)
+			(at 26.67 25.4 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16837,7 +17604,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 45.72 0)
+			(at 26.67 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16881,7 +17648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GaudiLabsFootPrints:COIL_T"
+		(property "Footprint" "theremin-footprints:COIL_T"
 			(at 53.34 45.72 0)
 			(effects
 				(font
@@ -16938,7 +17705,7 @@
 				)
 			)
 		)
-		(property "Value" "16MHz"
+		(property "Value" "16MHz/30ppm/18pF"
 			(at 105.41 48.6664 0)
 			(effects
 				(font
@@ -18077,7 +18844,7 @@
 				)
 			)
 		)
-		(property "Value" "7.3721MHz"
+		(property "Value" "7.3721MHz/30ppm/18pF"
 			(at 105.41 136.2964 0)
 			(effects
 				(font
@@ -19596,7 +20363,7 @@
 				)
 			)
 		)
-		(property "Value" "HEF4069"
+		(property "Value" "HEF4069UBT"
 			(at 81.28 22.2504 0)
 			(effects
 				(font
@@ -19697,7 +20464,7 @@
 				)
 			)
 		)
-		(property "Value" "HEF4069"
+		(property "Value" "HEF4069UBT"
 			(at 81.28 40.0304 0)
 			(effects
 				(font
@@ -19782,8 +20549,9 @@
 		)
 	)
 	(symbol
+		(lib_name "MountPad3-OpenThereminV4-rescue_1")
 		(lib_id "OpenThereminV41-rescue:MountPad3-OpenThereminV4-rescue")
-		(at 21.59 133.35 180)
+		(at 26.67 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -19791,7 +20559,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000571f63be")
 		(property "Reference" "Y2"
-			(at 21.336 131.826 0)
+			(at 28.448 114.808 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -19799,15 +20567,16 @@
 			)
 		)
 		(property "Value" "MountPad3"
-			(at 20.32 134.62 0)
+			(at 27.432 119.126 90)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "GaudiLabsFootPrints:SMTSOB_M3"
-			(at 21.59 133.35 0)
+			(at 26.67 113.03 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -19816,7 +20585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 21.59 133.35 0)
+			(at 26.67 113.03 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -19824,7 +20593,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 133.35 0)
+			(at 26.67 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19868,7 +20637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GaudiLabsFootPrints:COIL_T"
+		(property "Footprint" "theremin-footprints:COIL_T"
 			(at 53.34 133.35 0)
 			(effects
 				(font
@@ -20248,7 +21017,7 @@
 				)
 			)
 		)
-		(property "Value" "HEF4069"
+		(property "Value" "HEF4069UBT"
 			(at 50.8 34.29 0)
 			(effects
 				(font
@@ -21184,8 +21953,9 @@
 		)
 	)
 	(symbol
+		(lib_name "GND-OpenThereminV4-rescue_10")
 		(lib_id "OpenThereminV41-rescue:GND-OpenThereminV4-rescue")
-		(at 124.46 269.24 0)
+		(at 116.84 274.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21193,7 +21963,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005721467f")
 		(property "Reference" "#PWR044"
-			(at 124.46 275.59 0)
+			(at 116.84 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21202,7 +21972,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 124.6632 273.6342 0)
+			(at 113.792 274.828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21210,7 +21980,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 269.24 0)
+			(at 116.84 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21218,7 +21988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 269.24 0)
+			(at 116.84 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21226,7 +21996,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 269.24 0)
+			(at 116.84 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23204,8 +23974,9 @@
 		)
 	)
 	(symbol
+		(lib_name "VCC-OpenThereminV4-rescue_3")
 		(lib_id "OpenThereminV41-rescue:VCC-OpenThereminV4-rescue")
-		(at 124.46 255.27 0)
+		(at 118.11 257.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23213,7 +23984,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000572e19f2")
 		(property "Reference" "#PWR043"
-			(at 124.46 259.08 0)
+			(at 121.92 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23222,7 +23993,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 124.968 250.8758 0)
+			(at 112.776 257.556 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23230,7 +24001,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 255.27 0)
+			(at 118.11 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23238,7 +24009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 255.27 0)
+			(at 118.11 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23246,7 +24017,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 124.46 255.27 0)
+			(at 118.11 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23905,7 +24676,7 @@
 		(at 147.32 166.37 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000057da044d")
@@ -23967,7 +24738,7 @@
 		(at 147.32 163.83 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000057da0948")
@@ -24151,132 +24922,6 @@
 		)
 	)
 	(symbol
-		(lib_id "OpenThereminV41-rescue:TEST_1P-OpenThereminV4-rescue")
-		(at 149.86 193.04 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000057db2880")
-		(property "Reference" "W1"
-			(at 148.59 195.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FIDUCIAL1"
-			(at 139.7 193.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "GaudiLabsFootPrints:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom"
-			(at 149.86 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 149.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8c60f57a-10b3-41e1-a58a-4bb5474b50d0")
-		)
-		(instances
-			(project ""
-				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
-					(reference "W1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "OpenThereminV41-rescue:TEST_1P-OpenThereminV4-rescue")
-		(at 154.94 193.04 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000057db3b8d")
-		(property "Reference" "W2"
-			(at 156.21 195.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FIDUCIAL2"
-			(at 162.56 193.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "GaudiLabsFootPrints:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom"
-			(at 154.94 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 154.94 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 154.94 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "92bcf414-033c-4442-836c-afca2f70bb34")
-		)
-		(instances
-			(project ""
-				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
-					(reference "W2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "GaudiLabsPartsLibrary:TTP223")
 		(at 60.96 238.76 0)
 		(unit 1)
@@ -24293,7 +24938,7 @@
 				)
 			)
 		)
-		(property "Value" "TTP223"
+		(property "Value" "TTP223E-BA6"
 			(at 54.61 227.33 0)
 			(effects
 				(font
@@ -24627,7 +25272,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PLUG_3_5_SMD SJ-3502-SMT-TR"
+		(property "Value" "SJ-3523-SMT-TR"
 			(at 257.81 78.74 0)
 			(effects
 				(font
@@ -24680,8 +25325,9 @@
 		)
 	)
 	(symbol
+		(lib_name "GND-OpenThereminV4-rescue_8")
 		(lib_id "OpenThereminV41-rescue:GND-OpenThereminV4-rescue")
-		(at 280.67 101.6 0)
+		(at 280.67 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24689,7 +25335,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000605c9b72")
 		(property "Reference" "#PWR0126"
-			(at 280.67 107.95 0)
+			(at 280.67 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24698,7 +25344,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 280.8732 105.9942 0)
+			(at 282.956 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24706,7 +25352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 280.67 101.6 0)
+			(at 280.67 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24714,7 +25360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 101.6 0)
+			(at 280.67 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24722,7 +25368,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 280.67 101.6 0)
+			(at 280.67 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24758,7 +25404,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle 12401610E4#2A"
+		(property "Value" "12401610E4#2A"
 			(at 307.5178 159.3596 0)
 			(effects
 				(font
@@ -25457,7 +26103,7 @@
 		(at 21.59 241.3 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006068a891")
@@ -25896,7 +26542,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000060708f40")
 		(property "Reference" "J2"
 			(at 292.1 125.2982 0)
@@ -25972,7 +26618,7 @@
 		(at 147.32 181.61 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060731c06")
@@ -26034,7 +26680,7 @@
 		(at 147.32 179.07 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000607327a6")
@@ -26096,7 +26742,7 @@
 		(at 147.32 184.15 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000607329cb")
@@ -26158,7 +26804,7 @@
 		(at 147.32 186.69 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060732d01")
@@ -26220,12 +26866,12 @@
 		(at 303.53 46.99 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006075d6ea")
 		(property "Reference" "P16"
-			(at 297.815 44.9326 0)
+			(at 306.832 44.958 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26451,7 +27097,7 @@
 				)
 			)
 		)
-		(property "Value" "ATmega328P-AU"
+		(property "Value" "ATMEGA328P-AU"
 			(at 322.58 128.27 0)
 			(effects
 				(font
@@ -26610,7 +27256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 177.546 229.108 0)
 			(effects
 				(font
@@ -26785,7 +27431,7 @@
 				)
 			)
 		)
-		(property "Value" "LP2985-3.3"
+		(property "Value" "LP2985-3.3DBV"
 			(at 147.32 217.1446 0)
 			(effects
 				(font
@@ -26923,7 +27569,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 131.191 231.013 0)
 			(effects
 				(font
@@ -27367,8 +28013,9 @@
 		)
 	)
 	(symbol
+		(lib_name "GND-OpenThereminV4-rescue_9")
 		(lib_id "OpenThereminV41-rescue:GND-OpenThereminV4-rescue")
-		(at 241.3 118.11 0)
+		(at 241.3 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27376,7 +28023,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060c0ea6f")
 		(property "Reference" "#PWR0123"
-			(at 241.3 124.46 0)
+			(at 241.3 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27385,7 +28032,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.5032 122.5042 0)
+			(at 241.3 111.506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27393,7 +28040,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 118.11 0)
+			(at 241.3 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27401,7 +28048,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 118.11 0)
+			(at 241.3 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27409,7 +28056,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 118.11 0)
+			(at 241.3 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28003,6 +28650,73 @@
 	)
 	(symbol
 		(lib_id "OpenThereminV41-rescue:C-OpenThereminV4-rescue")
+		(at 130.81 269.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00cf5427-11ce-491b-b246-4816db60e27d")
+		(property "Reference" "C42"
+			(at 133.731 268.0716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 133.731 270.383 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 131.7752 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 130.81 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3508c65f-a8d2-42bb-aed2-4dab5168d56e")
+		)
+		(pin "2"
+			(uuid "15ef4290-988e-4996-bb9d-49a01b028f3f")
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OpenThereminV41-rescue:C-OpenThereminV4-rescue")
 		(at 62.23 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28075,7 +28789,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0408bb8b-b405-445b-9203-b24f0872b270")
 		(property "Reference" "J3"
@@ -28235,7 +28949,7 @@
 	)
 	(symbol
 		(lib_id "Theremin:potmeter_shaft")
-		(at 140.97 280.67 0)
+		(at 149.86 280.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28244,7 +28958,7 @@
 		(fields_autoplaced yes)
 		(uuid "0aef8254-0c63-41c3-b10c-dc0daa611c7d")
 		(property "Reference" "XX2"
-			(at 140.716 275.59 0)
+			(at 149.606 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28252,7 +28966,7 @@
 			)
 		)
 		(property "Value" "XEJPL5207CR"
-			(at 140.716 278.13 0)
+			(at 149.606 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28260,7 +28974,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 280.67 0)
+			(at 149.86 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28269,7 +28983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 280.67 0)
+			(at 149.86 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28278,7 +28992,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 280.67 0)
+			(at 149.86 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28426,6 +29140,72 @@
 		)
 	)
 	(symbol
+		(lib_id "OpenThereminV41-rescue:RES-OpenThereminV4-rescue")
+		(at 283.21 50.8 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "141dafd9-0c0f-4de8-881c-2a910574a95c")
+		(property "Reference" "R25"
+			(at 283.21 53.34 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 283.21 50.8 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 281.94 50.8 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 50.8 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 283.21 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2facaf3c-a136-4b91-8c0d-3bcf6579d1a9")
+		)
+		(pin "2"
+			(uuid "dcb61e17-951b-4dea-9531-f6298c914099")
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "OpenThereminV41-rescue:VCC-OpenThereminV4-rescue")
 		(at 229.87 133.35 0)
 		(unit 1)
@@ -28482,6 +29262,137 @@
 			(project ""
 				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
 					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OpenThereminV41-rescue:C-OpenThereminV4-rescue")
+		(at 177.8 269.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3620c177-9f23-456c-b764-79554c35ae5f")
+		(property "Reference" "C44"
+			(at 180.848 268.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 180.848 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 178.7652 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 177.8 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "58e40e91-4297-450c-be67-33c48333c849")
+		)
+		(pin "2"
+			(uuid "159d1b95-84b4-4ca1-80f2-ff52e0443834")
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "C44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 283.21 273.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4946e8aa-710f-4e70-83c4-ddbfe6e4d7d3")
+		(property "Reference" "FID2"
+			(at 285.75 271.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 285.75 274.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 283.21 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 283.21 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 283.21 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "FID2")
 					(unit 1)
 				)
 			)
@@ -28549,6 +29460,70 @@
 			(project "OpenThereminV45"
 				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
 					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 283.21 278.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b13d014-65db-4b3f-b1cf-f8fbfb09523e")
+		(property "Reference" "FID3"
+			(at 285.75 276.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 285.75 279.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 283.21 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 283.21 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 283.21 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "FID3")
 					(unit 1)
 				)
 			)
@@ -28685,6 +29660,72 @@
 			(project "OpenThereminV45"
 				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
 					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OpenThereminV41-rescue:RES-OpenThereminV4-rescue")
+		(at 283.21 57.15 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6afdc084-e4c2-473b-9bf5-0fce5f125de2")
+		(property "Reference" "R26"
+			(at 283.21 59.69 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 283.21 57.15 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 281.94 57.15 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 57.15 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 283.21 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "07f6515e-903c-401b-9978-225409c67c19")
+		)
+		(pin "2"
+			(uuid "5ae09eb0-722b-4c4d-83a9-a07db4055e1b")
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -28885,33 +29926,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Theremin:potmeter_shaft")
-		(at 168.91 280.67 0)
+		(lib_id "OpenThereminV41-rescue:C-OpenThereminV4-rescue")
+		(at 200.66 269.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "93171bbe-d0f3-4916-a7bc-7b0ef75841e1")
-		(property "Reference" "XX4"
-			(at 168.656 275.59 0)
+		(uuid "92e82238-6645-450c-b910-33036bf673fb")
+		(property "Reference" "C45"
+			(at 203.708 268.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "XEJPL5207CR"
-			(at 168.656 278.13 0)
+		(property "Value" "100n"
+			(at 203.708 271.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 168.91 280.67 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 201.6252 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28920,7 +29962,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 280.67 0)
+			(at 200.66 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 200.66 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4f2ae051-fb6d-46c1-8a96-df112a02b4c3")
+		)
+		(pin "2"
+			(uuid "76989a95-d424-4449-b3a7-1d34206efa36")
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "C45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Theremin:potmeter_shaft")
+		(at 194.31 280.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93171bbe-d0f3-4916-a7bc-7b0ef75841e1")
+		(property "Reference" "XX4"
+			(at 194.056 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XEJPL5207CR"
+			(at 194.056 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 194.31 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28929,7 +30037,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 280.67 0)
+			(at 194.31 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28948,7 +30056,7 @@
 	)
 	(symbol
 		(lib_id "Theremin:potmeter_shaft")
-		(at 127 280.67 0)
+		(at 125.73 280.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28957,7 +30065,7 @@
 		(fields_autoplaced yes)
 		(uuid "933c6d7f-5681-4f33-b6dc-cbf3ee0a33e4")
 		(property "Reference" "XX1"
-			(at 126.746 275.59 0)
+			(at 125.476 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28965,7 +30073,7 @@
 			)
 		)
 		(property "Value" "XEJPL5207CR"
-			(at 126.746 278.13 0)
+			(at 125.476 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28973,7 +30081,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 280.67 0)
+			(at 125.73 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28982,7 +30090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 280.67 0)
+			(at 125.73 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28991,7 +30099,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 127 280.67 0)
+			(at 125.73 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29072,6 +30180,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 262.89 266.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "964dc849-a1bb-4360-8a92-adfd6688861d")
+		(property "Reference" "H1"
+			(at 265.43 265.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 265.43 267.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 262.89 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 262.89 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "OpenThereminV41-rescue:GND-OpenThereminV4-rescue")
 		(at 16.51 29.21 180)
 		(unit 1)
@@ -29128,6 +30300,137 @@
 			(project "OpenThereminV45"
 				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
 					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OpenThereminV41-rescue:C-OpenThereminV4-rescue")
+		(at 156.21 269.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7125e2b-abe6-410d-aba2-5e7aca3d504c")
+		(property "Reference" "C43"
+			(at 159.258 268.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 159.258 271.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 157.1752 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 156.21 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a5d82e9-2550-46ea-94dc-b83bec5d4a75")
+		)
+		(pin "2"
+			(uuid "6484497e-801c-407f-802c-cca63b7bc94e")
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 283.21 267.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a908ee5e-0615-43eb-9e7a-f369e08561ef")
+		(property "Reference" "FID1"
+			(at 285.75 266.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 285.75 269.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 283.21 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 283.21 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 283.21 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "FID1")
 					(unit 1)
 				)
 			)
@@ -29196,8 +30499,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 262.89 281.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b549159e-0a05-4d15-854a-1a232ca328cc")
+		(property "Reference" "H4"
+			(at 265.43 280.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 265.43 283.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 262.89 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 262.89 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Theremin:potmeter_shaft")
-		(at 154.94 280.67 0)
+		(at 171.45 280.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29206,7 +30573,7 @@
 		(fields_autoplaced yes)
 		(uuid "bd566a18-d6f5-4571-b419-726389761b54")
 		(property "Reference" "XX3"
-			(at 154.686 275.59 0)
+			(at 171.196 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29214,7 +30581,7 @@
 			)
 		)
 		(property "Value" "XEJPL5207CR"
-			(at 154.686 278.13 0)
+			(at 171.196 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29222,7 +30589,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 280.67 0)
+			(at 171.45 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29231,7 +30598,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 280.67 0)
+			(at 171.45 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29240,7 +30607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 280.67 0)
+			(at 171.45 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29252,6 +30619,70 @@
 			(project "OpenThereminV45"
 				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
 					(reference "XX3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 262.89 276.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df30c593-a477-46bd-8418-bf706935e8ac")
+		(property "Reference" "H3"
+			(at 265.43 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 265.43 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 262.89 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 262.89 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -29275,7 +30706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 353.441 168.783 0)
 			(effects
 				(font
@@ -29589,6 +31020,70 @@
 			(project "OpenThereminV45"
 				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
 					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 262.89 271.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2b89270-836d-452c-9cbf-5786db18ab66")
+		(property "Reference" "H2"
+			(at 265.43 270.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 265.43 273.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 262.89 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 262.89 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "OpenThereminV45"
+				(path "/e6f05f4b-c6f7-49e9-850f-9a638923ab53"
+					(reference "H2")
 					(unit 1)
 				)
 			)
